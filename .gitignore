@@ -67,4 +67,4 @@ CVS/*
 
 # Other files
 working/
-
+*.swp
